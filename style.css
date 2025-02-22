@@ -116,9 +116,12 @@ body {
         }
       }
       h2 {
-        font-size: 15px;
+        font-size: 18px;
         text-shadow: 2px 5px 10px white;
         color: white;
+        display: flex;
+        align-items: center;
+        gap: 5px;
       }
       img {
         width: 100%;
